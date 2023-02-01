@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jefferyokesamuel1@gmail.com
 - ⚡ Fun fact: Play a lot of Basketball 🏀 in my free time
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jefferyokesamuel&theme=elegant)](https://git.io/streak-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
