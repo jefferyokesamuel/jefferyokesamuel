@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jefferyokesamuel1@gmail.com
 - ⚡ Fun fact: Play a lot of Basketball 🏀 in my free time
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
