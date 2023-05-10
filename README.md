@@ -2,7 +2,6 @@
 
 Growing up i was always excited about tech and video games, with over 5 years of experience. I love working on blockchain projects because of the many use cases it has.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🌱 I’m currently learning more on Smart Contract Security
