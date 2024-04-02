@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi im Jeffery 👋
 
-Growing up i was always excited about tech and video games, with over 5 years of experience. I love working on blockchain projects because of the many use cases it has.
+Blockchain Engineer with over 5 years of experience
 
 - 🔭 I’m currently working on Blockchain Projects
 - 🌱 I’m currently learning more on Smart Contract Security
