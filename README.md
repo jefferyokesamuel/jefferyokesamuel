@@ -1,10 +1,11 @@
 ### Hi im Jeffery 👋
 
-Blockchain Engineer with over 5 years of experience
+Im a Lead Blockchain Engineer with lots experience building & deploying smart contracts
 
-- 🔭 I’m currently working on Blockchain Projects
-- 🌱 I’m currently learning more on Smart Contract Security
-- 👯 I’m looking to collaborate on Dope Blockchain Projects
-- 💬 Ask me about FlashLoans, Smart Contract Development and Auditing, Im your guy
-- 📫 You can reach me on: jefferyokesamuel1@gmail.com
+- 🔭 I've lead teams in building blockchain projects like wallet infrastructure, Decentralised exchanges, Smart contracts, On & Off Ramp liquidity products & Flash Loans
+- 🌱 My favourite Blockchain to build on is the Cosmos Network, I also Love building projects with Golang
+- 💬 I run a medium blog with over 100 published [blockchain articles & guides](https://medium.com/@jefferyokesamuel1)<br/>
+- 📫 You can email me at: jefferyokesamuel1@gmail.com
+- 👨🏾‍💻Here's a link to my Linkedin Profile to [learn more about me](https://www.linkedin.com/in/jefferyokesamuel)<br/>
+[![Jeffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferyokesamuel)](https://github.com/anuraghazra/github-readme-stats)
 
