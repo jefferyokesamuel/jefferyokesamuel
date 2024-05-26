@@ -7,5 +7,4 @@ Im a Lead Blockchain Engineer with lots experience building & deploying smart co
 - 💬 I run a medium blog with over 100 published [blockchain articles & guides](https://medium.com/@jefferyokesamuel1)<br/>
 - 📫 You can email me at: jefferyokesamuel1@gmail.com
 - 👨🏾‍💻Here's a link to my Linkedin Profile to [learn more about me](https://www.linkedin.com/in/jefferyokesamuel)<br/>
-[![Jeffery's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferyokesamuel)](https://github.com/anuraghazra/github-readme-stats)
 
